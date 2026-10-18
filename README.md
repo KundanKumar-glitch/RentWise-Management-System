@@ -26,7 +26,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/KundanKumar-glitch/RentWise-Management-System
    ```
 
 2. Open the project folder:
