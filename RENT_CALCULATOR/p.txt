@@ -1,0 +1,27 @@
+
+============================================
+          RENTWISE MANAGEMENT
+             RENT SUMMARY
+============================================
+
+Property Name       : GUPTA PROPERTIES
+Tenant Name         : Kundan Gupta
+Billing Month       : October 2026
+
+--------------------------------------------
+PAYMENT DETAILS
+--------------------------------------------
+Base Rent           : Rs. 52.00
+Maintenance         : Rs. 4.00
+Parking             : Rs. 56.00
+Discount            : Rs. 1.00
+Utility Expenses    : Rs. 6094.25
+
+--------------------------------------------
+TOTAL AMOUNT DUE    : Rs. 6205.25
+--------------------------------------------
+
+Payment Status      : UNPAID
+Payment Deadline    : 18 October 2026
+
+============================================
